@@ -13,6 +13,7 @@ Deprecated
 !gevidaq/Icons/*.png
 *.json
 *.log
+*.log.previous
 Thumbs.db
 
 # jupyternotebook cache
